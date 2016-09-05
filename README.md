@@ -10,7 +10,7 @@ For accessing Google Search Trends data, I used the gtrendsR wrapper in R. Since
 
 ####The polar vortex storm in the northeast United States in Dec 2013/Jan 2014 that grounded flights.
 
-Google Search Volumes:
+Google Search Volumes for 'flight delay':
 
 ![Flight Delays Trends](https://github.com/sgrvinod/Event-Detection-by-Finding-Anomalies-on-Google-Search-Trends-Data/blob/master/examples/flightdelaytrends.png?raw=true)
 
@@ -20,7 +20,7 @@ Anomalies:
 
 ####The earthquake in Nepal in April 2015.
 
-Google Search Volumes:
+Google Search Volumes for 'earthquake':
 
 ![Nepal Earthquake Trends](https://github.com/sgrvinod/Event-Detection-by-Finding-Anomalies-on-Google-Search-Trends-Data/blob/master/examples/nepalearthquaketrends.png?raw=true)
 
@@ -30,7 +30,7 @@ Anomalies:
 
 ####The 2008 terrorist attacks in Mumbai, India.
 
-Google Search Volumes:
+Google Search Volumes for 'terrorist attack':
 
 ![India 26/11 Trends](https://github.com/sgrvinod/Event-Detection-by-Finding-Anomalies-on-Google-Search-Trends-Data/blob/master/examples/india2611trends.png?raw=true)
 
